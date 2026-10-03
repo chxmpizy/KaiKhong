@@ -1,0 +1,19 @@
+# dependencies and build output
+node_modules/
+.next/
+out/
+
+# environment files and local credentials
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# diagnostics
+*.log
+.DS_Store
+coverage/
+
+# platform / Sentry generated files
+.vercel/
+.sentryclirc

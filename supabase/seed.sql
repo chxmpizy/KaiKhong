@@ -1,0 +1,1 @@
+-- Intentionally empty: do not seed customer-like data. Add clearly fake local fixtures only when needed.
