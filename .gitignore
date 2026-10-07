@@ -17,3 +17,6 @@ coverage/
 # platform / Sentry generated files
 .vercel/
 .sentryclirc
+
+# Sentry Config File
+.env.sentry-build-plugin
